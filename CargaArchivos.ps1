@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 $UrlReporting = "http://localhost/ReportServer1";
 $RutaProyectos = $env:RutaBase;
 
