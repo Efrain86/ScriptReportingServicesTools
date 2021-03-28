@@ -56,5 +56,3 @@ Foreach ($Proyecto in $Proyectos) {
         
     }
 }
-
->>>>>>> 0790f7e006d27c6bbfd5db8e55f0b8b459dfb797
